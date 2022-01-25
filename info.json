@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1009.4683000000001,
+    "videos": [
         "Radiohead - Creep-XFkzRNyygfk.mp4",
         "Ricardo Ceratto- El Sol Nace Para Todos-Zi_xiDXy4CI.mp4",
         "Recto Verso-cKLZJVR4DeA.mp4",
@@ -80,7 +81,5 @@
         "Rockdrigo González - Perro en el periférico-dk6AeLRe2es.mp4",
         "RAMONES - I'm Affected-FhKpqXIjckk.mp4",
         "ROBERT PARKER - BAREFOOTIN' VIDEO FOOTAGE-azIytXgdggA.mp4"
-    ],
-    "id": "r",
-    "total_size": 962.7038515625001
+    ]
 }
